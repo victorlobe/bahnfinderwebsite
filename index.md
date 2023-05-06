@@ -8,7 +8,7 @@ title: Willkommen auf der Webseite der Bahnfinder App
 
 ## Mein Schiff Bordfinder Apps
 
-<img src="/resources/appstoreImageA.png" alt="hi" class="inline" align="right"/>
+<img src="./resources/appstoreImageA.png" alt="hi" class="inline" align="right"/>
 
 ### Funktionen
 
