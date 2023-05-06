@@ -8,7 +8,7 @@ title: Willkommen auf der Webseite der Bahnfinder App
 
 ## Home
 
-<img src="./resources/appstoreImageA.png" alt="hi" class="inline" align="right"/>
+<img src="./resources/appstoreImageA.png" alt="hi" class="inline" align="right" height="200" />
 
 ### Funktionen
 
