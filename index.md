@@ -6,7 +6,7 @@ title: Willkommen auf der Webseite der Bahnfinder App
 <!--# [Changelog](./changelog.md)   [Kontakt](./contact.html)-->
 
 
-## Mein Schiff Bordfinder Apps
+## Home
 
 <img src="./resources/appstoreImageA.png" alt="hi" class="inline" align="right"/>
 
