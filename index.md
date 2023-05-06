@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Willkommen auf der Webseite der Bahnfinder AApp
+title: Willkommen auf der Webseite der Bahnfinder App
 ---
 
 <!--# [Changelog](./changelog.md)   [Kontakt](./contact.html)-->
@@ -13,7 +13,6 @@ title: Willkommen auf der Webseite der Bahnfinder AApp
 ### Funktionen
 
 - Einfach, schnell und intuitiv
-
 
 
 ## Kontakt

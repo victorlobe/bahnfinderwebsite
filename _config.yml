@@ -1,6 +1,6 @@
 theme: jekyll-theme-cayman
-title: "Mein Schiff Bordfinder"
-description: "Die offizielle Webseite der Bordfinder Apps."
+title: "Bahnfinder"
+description: "Die offizielle Webseite der Bahnfinder App"
 permalink: /:changelog/
 github:
   is_project_page: false
