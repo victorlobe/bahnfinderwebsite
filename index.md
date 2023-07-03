@@ -12,7 +12,7 @@ title: Willkommen auf der Webseite der Bahnfinder App
 
 ### Funktionen
 
-- Einfach, schnell und intuitiv
+- 
 
 
 ## Kontakt
