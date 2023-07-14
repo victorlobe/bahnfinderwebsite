@@ -5,6 +5,7 @@ title: Willkommen auf der Webseite der Bahnfinder App
 
 <!--# [Changelog](./changelog.md)   [Kontakt](./contact.html)-->
 
+# Diese Webseite befindet sich noch im Aufbau.
 
 ## Home
 
@@ -12,7 +13,7 @@ title: Willkommen auf der Webseite der Bahnfinder App
 
 ### Funktionen
 
-- 
+
 
 
 ## Kontakt
