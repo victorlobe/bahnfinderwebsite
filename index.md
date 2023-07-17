@@ -9,8 +9,6 @@ title: Willkommen auf der Webseite der Bahnfinder App
 
 ## Home
 
-<img src="./resources/appstoreImageA.png" alt="hi" class="inline" align="right" height="512" />
-
 ### Funktionen
 
 * Abfahrten: Sobald du die App startest, werden dir die Abfahrtszeiten der nächstgelegenen Haltestelle angezeigt. Kein mühsames Suchen mehr! Durch eine schnelle, optimierte Haltestellenauswahl findest du Haltestellen schneller als in jeder anderen App!
